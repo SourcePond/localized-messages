@@ -9,4 +9,8 @@
 	<groupId>ch.sourcepond.maven.utils</groupId>
 	<artifactId>localized-messages</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
+	<inceptionYear>2015</inceptionYear>
+	<description>
+		Simple facade to receive localized strings from property files.
+	</description>
 </project>
